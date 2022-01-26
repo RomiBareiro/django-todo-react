@@ -5,4 +5,4 @@ backend/todo/migrations/0003_lotery_letras_lotery_numeros_lotery_premios_and_mor
 backend/todo/migrations/0004_alter_lotery_numeros_alter_lotery_premios.py
 backend/todo/migrations/0005_delete_lotery.py
 backend/todo/migrations/__pycache__/.
-
+*.pyc
