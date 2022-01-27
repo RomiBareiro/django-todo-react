@@ -1,0 +1,1514 @@
+{
+	"Quiniela Nacional": {
+		"Primera": [
+			{
+				"numeros": [
+					{
+						"1": "3346",
+						"tipo": null
+					},
+					{
+						"2": "2123",
+						"tipo": null
+					},
+					{
+						"3": "9292",
+						"tipo": null
+					},
+					{
+						"4": "3472",
+						"tipo": null
+					},
+					{
+						"5": "0420",
+						"tipo": null
+					},
+					{
+						"6": "4114",
+						"tipo": null
+					},
+					{
+						"7": "9070",
+						"tipo": null
+					},
+					{
+						"8": "8685",
+						"tipo": null
+					},
+					{
+						"9": "2102",
+						"tipo": null
+					},
+					{
+						"10": "3583",
+						"tipo": null
+					},
+					{
+						"11": "5634",
+						"tipo": null
+					},
+					{
+						"12": "3912",
+						"tipo": null
+					},
+					{
+						"13": "3678",
+						"tipo": null
+					},
+					{
+						"14": "5564",
+						"tipo": null
+					},
+					{
+						"15": "0813",
+						"tipo": null
+					},
+					{
+						"16": "4186",
+						"tipo": null
+					},
+					{
+						"17": "5736",
+						"tipo": null
+					},
+					{
+						"18": "1270",
+						"tipo": null
+					},
+					{
+						"19": "9826",
+						"tipo": null
+					},
+					{
+						"20": "0136",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": "DHJN",
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Matutina": [
+			{
+				"numeros": [
+					{
+						"1": "0856",
+						"tipo": null
+					},
+					{
+						"2": "7047",
+						"tipo": null
+					},
+					{
+						"3": "1501",
+						"tipo": null
+					},
+					{
+						"4": "8863",
+						"tipo": null
+					},
+					{
+						"5": "3185",
+						"tipo": null
+					},
+					{
+						"6": "0266",
+						"tipo": null
+					},
+					{
+						"7": "6191",
+						"tipo": null
+					},
+					{
+						"8": "2174",
+						"tipo": null
+					},
+					{
+						"9": "3129",
+						"tipo": null
+					},
+					{
+						"10": "6018",
+						"tipo": null
+					},
+					{
+						"11": "0601",
+						"tipo": null
+					},
+					{
+						"12": "1576",
+						"tipo": null
+					},
+					{
+						"13": "4889",
+						"tipo": null
+					},
+					{
+						"14": "2987",
+						"tipo": null
+					},
+					{
+						"15": "0467",
+						"tipo": null
+					},
+					{
+						"16": "2669",
+						"tipo": null
+					},
+					{
+						"17": "1019",
+						"tipo": null
+					},
+					{
+						"18": "8583",
+						"tipo": null
+					},
+					{
+						"19": "6968",
+						"tipo": null
+					},
+					{
+						"20": "5610",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": "ULNN",
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Vespertina": [
+			{
+				"numeros": [
+					{
+						"1": "4797",
+						"tipo": null
+					},
+					{
+						"2": "9736",
+						"tipo": null
+					},
+					{
+						"3": "0388",
+						"tipo": null
+					},
+					{
+						"4": "8777",
+						"tipo": null
+					},
+					{
+						"5": "2504",
+						"tipo": null
+					},
+					{
+						"6": "6274",
+						"tipo": null
+					},
+					{
+						"7": "8046",
+						"tipo": null
+					},
+					{
+						"8": "1877",
+						"tipo": null
+					},
+					{
+						"9": "8261",
+						"tipo": null
+					},
+					{
+						"10": "6859",
+						"tipo": null
+					},
+					{
+						"11": "7107",
+						"tipo": null
+					},
+					{
+						"12": "9717",
+						"tipo": null
+					},
+					{
+						"13": "7252",
+						"tipo": null
+					},
+					{
+						"14": "5221",
+						"tipo": null
+					},
+					{
+						"15": "0437",
+						"tipo": null
+					},
+					{
+						"16": "8735",
+						"tipo": null
+					},
+					{
+						"17": "7095",
+						"tipo": null
+					},
+					{
+						"18": "6606",
+						"tipo": null
+					},
+					{
+						"19": "3958",
+						"tipo": null
+					},
+					{
+						"20": "3186",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": "LNXZ",
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Nocturna": [
+			{
+				"numeros": [
+					{
+						"1": "5019",
+						"tipo": null
+					},
+					{
+						"2": "2252",
+						"tipo": null
+					},
+					{
+						"3": "1041",
+						"tipo": null
+					},
+					{
+						"4": "2942",
+						"tipo": null
+					},
+					{
+						"5": "0020",
+						"tipo": null
+					},
+					{
+						"6": "6723",
+						"tipo": null
+					},
+					{
+						"7": "8613",
+						"tipo": null
+					},
+					{
+						"8": "6926",
+						"tipo": null
+					},
+					{
+						"9": "6418",
+						"tipo": null
+					},
+					{
+						"10": "5075",
+						"tipo": null
+					},
+					{
+						"11": "6370",
+						"tipo": null
+					},
+					{
+						"12": "4727",
+						"tipo": null
+					},
+					{
+						"13": "3371",
+						"tipo": null
+					},
+					{
+						"14": "9483",
+						"tipo": null
+					},
+					{
+						"15": "6892",
+						"tipo": null
+					},
+					{
+						"16": "3050",
+						"tipo": null
+					},
+					{
+						"17": "4571",
+						"tipo": null
+					},
+					{
+						"18": "5333",
+						"tipo": null
+					},
+					{
+						"19": "5071",
+						"tipo": null
+					},
+					{
+						"20": "7849",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": "AOLP",
+				"premios": [],
+				"pozo_proximo": null
+			}
+		]
+	},
+	"Quiniela Buenos Aires": {
+		"Primera": [
+			{
+				"numeros": [
+					{
+						"1": "1416",
+						"tipo": null
+					},
+					{
+						"2": "6419",
+						"tipo": null
+					},
+					{
+						"3": "5627",
+						"tipo": null
+					},
+					{
+						"4": "4700",
+						"tipo": null
+					},
+					{
+						"5": "9436",
+						"tipo": null
+					},
+					{
+						"6": "5166",
+						"tipo": null
+					},
+					{
+						"7": "2245",
+						"tipo": null
+					},
+					{
+						"8": "2496",
+						"tipo": null
+					},
+					{
+						"9": "2684",
+						"tipo": null
+					},
+					{
+						"10": "1963",
+						"tipo": null
+					},
+					{
+						"11": "9536",
+						"tipo": null
+					},
+					{
+						"12": "3305",
+						"tipo": null
+					},
+					{
+						"13": "9077",
+						"tipo": null
+					},
+					{
+						"14": "1956",
+						"tipo": null
+					},
+					{
+						"15": "3415",
+						"tipo": null
+					},
+					{
+						"16": "6922",
+						"tipo": null
+					},
+					{
+						"17": "3165",
+						"tipo": null
+					},
+					{
+						"18": "5344",
+						"tipo": null
+					},
+					{
+						"19": "3488",
+						"tipo": null
+					},
+					{
+						"20": "2710",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Matutina": [
+			{
+				"numeros": [
+					{
+						"1": "1520",
+						"tipo": null
+					},
+					{
+						"2": "2788",
+						"tipo": null
+					},
+					{
+						"3": "1930",
+						"tipo": null
+					},
+					{
+						"4": "4056",
+						"tipo": null
+					},
+					{
+						"5": "7431",
+						"tipo": null
+					},
+					{
+						"6": "5747",
+						"tipo": null
+					},
+					{
+						"7": "7136",
+						"tipo": null
+					},
+					{
+						"8": "0452",
+						"tipo": null
+					},
+					{
+						"9": "1741",
+						"tipo": null
+					},
+					{
+						"10": "0496",
+						"tipo": null
+					},
+					{
+						"11": "9275",
+						"tipo": null
+					},
+					{
+						"12": "0250",
+						"tipo": null
+					},
+					{
+						"13": "1231",
+						"tipo": null
+					},
+					{
+						"14": "1177",
+						"tipo": null
+					},
+					{
+						"15": "6714",
+						"tipo": null
+					},
+					{
+						"16": "0965",
+						"tipo": null
+					},
+					{
+						"17": "8619",
+						"tipo": null
+					},
+					{
+						"18": "2019",
+						"tipo": null
+					},
+					{
+						"19": "3086",
+						"tipo": null
+					},
+					{
+						"20": "4029",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Vespertina": [
+			{
+				"numeros": [
+					{
+						"1": "6374",
+						"tipo": null
+					},
+					{
+						"2": "4892",
+						"tipo": null
+					},
+					{
+						"3": "4314",
+						"tipo": null
+					},
+					{
+						"4": "3189",
+						"tipo": null
+					},
+					{
+						"5": "0602",
+						"tipo": null
+					},
+					{
+						"6": "0030",
+						"tipo": null
+					},
+					{
+						"7": "6115",
+						"tipo": null
+					},
+					{
+						"8": "2361",
+						"tipo": null
+					},
+					{
+						"9": "7757",
+						"tipo": null
+					},
+					{
+						"10": "2805",
+						"tipo": null
+					},
+					{
+						"11": "3530",
+						"tipo": null
+					},
+					{
+						"12": "1197",
+						"tipo": null
+					},
+					{
+						"13": "8114",
+						"tipo": null
+					},
+					{
+						"14": "9769",
+						"tipo": null
+					},
+					{
+						"15": "4748",
+						"tipo": null
+					},
+					{
+						"16": "2931",
+						"tipo": null
+					},
+					{
+						"17": "0066",
+						"tipo": null
+					},
+					{
+						"18": "1427",
+						"tipo": null
+					},
+					{
+						"19": "8545",
+						"tipo": null
+					},
+					{
+						"20": "4152",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Nocturna": [
+			{
+				"numeros": [
+					{
+						"1": "1486",
+						"tipo": null
+					},
+					{
+						"2": "5980",
+						"tipo": null
+					},
+					{
+						"3": "0556",
+						"tipo": null
+					},
+					{
+						"4": "1502",
+						"tipo": null
+					},
+					{
+						"5": "6694",
+						"tipo": null
+					},
+					{
+						"6": "6903",
+						"tipo": null
+					},
+					{
+						"7": "3590",
+						"tipo": null
+					},
+					{
+						"8": "6781",
+						"tipo": null
+					},
+					{
+						"9": "5307",
+						"tipo": null
+					},
+					{
+						"10": "9641",
+						"tipo": null
+					},
+					{
+						"11": "1730",
+						"tipo": null
+					},
+					{
+						"12": "0294",
+						"tipo": null
+					},
+					{
+						"13": "1330",
+						"tipo": null
+					},
+					{
+						"14": "2825",
+						"tipo": null
+					},
+					{
+						"15": "5641",
+						"tipo": null
+					},
+					{
+						"16": "5107",
+						"tipo": null
+					},
+					{
+						"17": "5839",
+						"tipo": null
+					},
+					{
+						"18": "3018",
+						"tipo": null
+					},
+					{
+						"19": "4907",
+						"tipo": null
+					},
+					{
+						"20": "8519",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		]
+	},
+	"Quiniela Rio Negro": {
+		"El Primero": [
+			{
+				"numeros": [
+					{
+						"1": "9271",
+						"tipo": null
+					},
+					{
+						"2": "1975",
+						"tipo": null
+					},
+					{
+						"3": "8241",
+						"tipo": null
+					},
+					{
+						"4": "9380",
+						"tipo": null
+					},
+					{
+						"5": "7463",
+						"tipo": null
+					},
+					{
+						"6": "2858",
+						"tipo": null
+					},
+					{
+						"7": "8842",
+						"tipo": null
+					},
+					{
+						"8": "4786",
+						"tipo": null
+					},
+					{
+						"9": "2101",
+						"tipo": null
+					},
+					{
+						"10": "9492",
+						"tipo": null
+					},
+					{
+						"11": "1779",
+						"tipo": null
+					},
+					{
+						"12": "0520",
+						"tipo": null
+					},
+					{
+						"13": "7850",
+						"tipo": null
+					},
+					{
+						"14": "3482",
+						"tipo": null
+					},
+					{
+						"15": "9368",
+						"tipo": null
+					},
+					{
+						"16": "9820",
+						"tipo": null
+					},
+					{
+						"17": "8320",
+						"tipo": null
+					},
+					{
+						"18": "9508",
+						"tipo": null
+					},
+					{
+						"19": "0703",
+						"tipo": null
+					},
+					{
+						"20": "7391",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Matutina": [
+			{
+				"numeros": [
+					{
+						"1": "9916",
+						"tipo": null
+					},
+					{
+						"2": "8262",
+						"tipo": null
+					},
+					{
+						"3": "9750",
+						"tipo": null
+					},
+					{
+						"4": "1454",
+						"tipo": null
+					},
+					{
+						"5": "5732",
+						"tipo": null
+					},
+					{
+						"6": "8019",
+						"tipo": null
+					},
+					{
+						"7": "0403",
+						"tipo": null
+					},
+					{
+						"8": "2599",
+						"tipo": null
+					},
+					{
+						"9": "2259",
+						"tipo": null
+					},
+					{
+						"10": "5792",
+						"tipo": null
+					},
+					{
+						"11": "3905",
+						"tipo": null
+					},
+					{
+						"12": "4353",
+						"tipo": null
+					},
+					{
+						"13": "9236",
+						"tipo": null
+					},
+					{
+						"14": "4255",
+						"tipo": null
+					},
+					{
+						"15": "4796",
+						"tipo": null
+					},
+					{
+						"16": "3371",
+						"tipo": null
+					},
+					{
+						"17": "3149",
+						"tipo": null
+					},
+					{
+						"18": "2352",
+						"tipo": null
+					},
+					{
+						"19": "5254",
+						"tipo": null
+					},
+					{
+						"20": "7790",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Vespertina": [
+			{
+				"numeros": [
+					{
+						"1": "8076",
+						"tipo": null
+					},
+					{
+						"2": "1922",
+						"tipo": null
+					},
+					{
+						"3": "2920",
+						"tipo": null
+					},
+					{
+						"4": "7312",
+						"tipo": null
+					},
+					{
+						"5": "5486",
+						"tipo": null
+					},
+					{
+						"6": "4566",
+						"tipo": null
+					},
+					{
+						"7": "0207",
+						"tipo": null
+					},
+					{
+						"8": "5839",
+						"tipo": null
+					},
+					{
+						"9": "0446",
+						"tipo": null
+					},
+					{
+						"10": "3026",
+						"tipo": null
+					},
+					{
+						"11": "4060",
+						"tipo": null
+					},
+					{
+						"12": "5445",
+						"tipo": null
+					},
+					{
+						"13": "1704",
+						"tipo": null
+					},
+					{
+						"14": "7499",
+						"tipo": null
+					},
+					{
+						"15": "5735",
+						"tipo": null
+					},
+					{
+						"16": "3481",
+						"tipo": null
+					},
+					{
+						"17": "5337",
+						"tipo": null
+					},
+					{
+						"18": "2870",
+						"tipo": null
+					},
+					{
+						"19": "9366",
+						"tipo": null
+					},
+					{
+						"20": "1142",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Nocturna": [
+			{
+				"numeros": [
+					{
+						"1": "5687",
+						"tipo": null
+					},
+					{
+						"2": "9158",
+						"tipo": null
+					},
+					{
+						"3": "4569",
+						"tipo": null
+					},
+					{
+						"4": "5460",
+						"tipo": null
+					},
+					{
+						"5": "0152",
+						"tipo": null
+					},
+					{
+						"6": "5091",
+						"tipo": null
+					},
+					{
+						"7": "8273",
+						"tipo": null
+					},
+					{
+						"8": "0263",
+						"tipo": null
+					},
+					{
+						"9": "7773",
+						"tipo": null
+					},
+					{
+						"10": "9984",
+						"tipo": null
+					},
+					{
+						"11": "5510",
+						"tipo": null
+					},
+					{
+						"12": "0918",
+						"tipo": null
+					},
+					{
+						"13": "8857",
+						"tipo": null
+					},
+					{
+						"14": "3791",
+						"tipo": null
+					},
+					{
+						"15": "7622",
+						"tipo": null
+					},
+					{
+						"16": "1617",
+						"tipo": null
+					},
+					{
+						"17": "4683",
+						"tipo": null
+					},
+					{
+						"18": "9717",
+						"tipo": null
+					},
+					{
+						"19": "4920",
+						"tipo": null
+					},
+					{
+						"20": "5868",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		]
+	},
+	"Quiniela Neuquen": {
+		"El Primero": [
+			{
+				"numeros": [
+					{
+						"1": "1977",
+						"tipo": null
+					},
+					{
+						"2": "4829",
+						"tipo": null
+					},
+					{
+						"3": "0438",
+						"tipo": null
+					},
+					{
+						"4": "5663",
+						"tipo": null
+					},
+					{
+						"5": "6056",
+						"tipo": null
+					},
+					{
+						"6": "9238",
+						"tipo": null
+					},
+					{
+						"7": "4177",
+						"tipo": null
+					},
+					{
+						"8": "9722",
+						"tipo": null
+					},
+					{
+						"9": "1983",
+						"tipo": null
+					},
+					{
+						"10": "9811",
+						"tipo": null
+					},
+					{
+						"11": "5818",
+						"tipo": null
+					},
+					{
+						"12": "3284",
+						"tipo": null
+					},
+					{
+						"13": "5460",
+						"tipo": null
+					},
+					{
+						"14": "4641",
+						"tipo": null
+					},
+					{
+						"15": "6617",
+						"tipo": null
+					},
+					{
+						"16": "3178",
+						"tipo": null
+					},
+					{
+						"17": "2950",
+						"tipo": null
+					},
+					{
+						"18": "8311",
+						"tipo": null
+					},
+					{
+						"19": "9688",
+						"tipo": null
+					},
+					{
+						"20": "3404",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Matutina": [
+			{
+				"numeros": [
+					{
+						"1": "4199",
+						"tipo": null
+					},
+					{
+						"2": "5527",
+						"tipo": null
+					},
+					{
+						"3": "0376",
+						"tipo": null
+					},
+					{
+						"4": "6818",
+						"tipo": null
+					},
+					{
+						"5": "1345",
+						"tipo": null
+					},
+					{
+						"6": "7318",
+						"tipo": null
+					},
+					{
+						"7": "2674",
+						"tipo": null
+					},
+					{
+						"8": "1345",
+						"tipo": null
+					},
+					{
+						"9": "7486",
+						"tipo": null
+					},
+					{
+						"10": "0243",
+						"tipo": null
+					},
+					{
+						"11": "6014",
+						"tipo": null
+					},
+					{
+						"12": "0853",
+						"tipo": null
+					},
+					{
+						"13": "9702",
+						"tipo": null
+					},
+					{
+						"14": "8167",
+						"tipo": null
+					},
+					{
+						"15": "3654",
+						"tipo": null
+					},
+					{
+						"16": "9241",
+						"tipo": null
+					},
+					{
+						"17": "6689",
+						"tipo": null
+					},
+					{
+						"18": "1998",
+						"tipo": null
+					},
+					{
+						"19": "3152",
+						"tipo": null
+					},
+					{
+						"20": "7370",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Vespertina": [
+			{
+				"numeros": [
+					{
+						"1": "0396",
+						"tipo": null
+					},
+					{
+						"2": "9302",
+						"tipo": null
+					},
+					{
+						"3": "9734",
+						"tipo": null
+					},
+					{
+						"4": "0386",
+						"tipo": null
+					},
+					{
+						"5": "0810",
+						"tipo": null
+					},
+					{
+						"6": "7399",
+						"tipo": null
+					},
+					{
+						"7": "6918",
+						"tipo": null
+					},
+					{
+						"8": "3843",
+						"tipo": null
+					},
+					{
+						"9": "5096",
+						"tipo": null
+					},
+					{
+						"10": "6674",
+						"tipo": null
+					},
+					{
+						"11": "0229",
+						"tipo": null
+					},
+					{
+						"12": "4332",
+						"tipo": null
+					},
+					{
+						"13": "0199",
+						"tipo": null
+					},
+					{
+						"14": "9006",
+						"tipo": null
+					},
+					{
+						"15": "3700",
+						"tipo": null
+					},
+					{
+						"16": "7751",
+						"tipo": null
+					},
+					{
+						"17": "1308",
+						"tipo": null
+					},
+					{
+						"18": "7564",
+						"tipo": null
+					},
+					{
+						"19": "7339",
+						"tipo": null
+					},
+					{
+						"20": "3182",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		],
+		"Nocturna": [
+			{
+				"numeros": [
+					{
+						"1": "1195",
+						"tipo": null
+					},
+					{
+						"2": "4490",
+						"tipo": null
+					},
+					{
+						"3": "3218",
+						"tipo": null
+					},
+					{
+						"4": "9837",
+						"tipo": null
+					},
+					{
+						"5": "6784",
+						"tipo": null
+					},
+					{
+						"6": "7690",
+						"tipo": null
+					},
+					{
+						"7": "4406",
+						"tipo": null
+					},
+					{
+						"8": "7613",
+						"tipo": null
+					},
+					{
+						"9": "3094",
+						"tipo": null
+					},
+					{
+						"10": "5552",
+						"tipo": null
+					},
+					{
+						"11": "4603",
+						"tipo": null
+					},
+					{
+						"12": "7862",
+						"tipo": null
+					},
+					{
+						"13": "7618",
+						"tipo": null
+					},
+					{
+						"14": "7884",
+						"tipo": null
+					},
+					{
+						"15": "3288",
+						"tipo": null
+					},
+					{
+						"16": "0903",
+						"tipo": null
+					},
+					{
+						"17": "9629",
+						"tipo": null
+					},
+					{
+						"18": "4956",
+						"tipo": null
+					},
+					{
+						"19": "5173",
+						"tipo": null
+					},
+					{
+						"20": "3349",
+						"tipo": null
+					}
+				],
+				"fecha": {
+					"date": "2022-01-25 00:00:00.000000",
+					"timezone_type": 3,
+					"timezone": "America\\/New_York"
+				},
+				"letras": null,
+				"premios": [],
+				"pozo_proximo": null
+			}
+		]
+	}
+}
