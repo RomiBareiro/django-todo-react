@@ -18,7 +18,7 @@ class LotteryAdmin(admin.ModelAdmin):
                     'numero13',
                    )
 
-admin.site.register(Lottery, LotteryAdmin)
+
 class ArgLotteryAdmin(admin.ModelAdmin):
     list_display = ('id','nombre_sorteo',
                     'tipo_quiniela',
@@ -50,3 +50,4 @@ class ArgLotteryAdmin(admin.ModelAdmin):
                     'numero20', 
                    )
 admin.site.register(ArgLottery, ArgLotteryAdmin)
+#admin.site.register(Lottery, LotteryAdmin)
